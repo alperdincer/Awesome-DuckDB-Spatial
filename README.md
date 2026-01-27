@@ -147,7 +147,6 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 * [DuckDB’s Spatial Extension (Reddit thread)](https://www.reddit.com/r/dataengineering/comments/12g942e/duckdbs_spatial_extension/) - Community feedback and use cases.
 
 ---
-* [Gestión de Datos Espaciales con DuckDB (Leanpub)](https://leanpub.com/gestion-de-datos-espaciales-con-duckdb) - Spanish-language learning resource/book on DuckDB Spatial.
 
 ## Libraries & Frameworks
 
@@ -171,10 +170,10 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 ## Visualization & GIS Integration
 
 * [developmentseed/lonboard](https://github.com/developmentseed/lonboard) - GPU-accelerated interactive vector viz in Jupyter and Python.
-  * [Lonboard docs: DuckDB Spatial](https://developmentseed.org/lonboard/latest/ecosystem/duckdb/) - Pass DuckDB queries directly into visualizations / layers.
+* [Lonboard docs: DuckDB Spatial](https://developmentseed.org/lonboard/latest/ecosystem/duckdb/) - Pass DuckDB queries directly into visualizations / layers.
 * [QDuckDB (QGIS provider plugin docs)](https://oslandia.gitlab.io/qgis/qduckdb/) - QGIS data provider plugin for reading DuckDB databases as map layers.
-  * [QDuckDB source (GitLab)](https://gitlab.com/Oslandia/qgis/qduckdb) - Plugin repository.
-  * [QDuckDB on QGIS Plugin Repo](https://plugins.qgis.org/plugins/qduckdb/) - Install via QGIS plugin manager.
+* [QDuckDB source (GitLab)](https://gitlab.com/Oslandia/qgis/qduckdb) - Plugin repository.
+* [QDuckDB on QGIS Plugin Repo](https://plugins.qgis.org/plugins/qduckdb/) - Install via QGIS plugin manager.
 * [Kepler.gl](https://kepler.gl/) - Open-source geospatial analytics tool; includes DuckDB-Wasm-based workflows for client-side filtering/aggregation (varies by deployment).
 * [duckdblabs/duckgl](https://github.com/duckdblabs/duckgl) - Geospatial visualization for DuckDB using deck.gl and MapLibre (experimental).
 
