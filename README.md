@@ -26,7 +26,6 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 - [Books & courses](#books--courses)
 - [Talks & videos](#talks--videos)
 - [Community discussions](#community-discussions)
-- [Libraries & Frameworks] (#Libraries-&-Frameworks)
   
 ---
 
