@@ -67,7 +67,7 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 * [A Beginner’s Guide to Geospatial with DuckDB Spatial and MotherDuck (Simon Späti)](https://motherduck.com/blog/beginners-guide-to-geospatial-with-duckdb-spatial-and-motherduck/) - Beginner-friendly walkthrough of installing DuckDB Spatial and running common GIS tasks.
 * [DuckDB: The Indispensable Geospatial Tool You Didn’t Know You Were Missing (Chris Holmes)](https://cloudnativegeo.org/blog/2023/05/duckdb-geospatial-tool-you-didnt-know/) - Narrative guide showing why DuckDB is a strong fit for large, file-based geospatial analytics.
 * [DuckDB for Geospatial (Geography & Coding)](https://geographycoding.com/duckdb-for-geospatial/) - Practical article with examples and performance discussion for large datasets.
-
+* [DuckDB Extensions You'll Actually Use in 2026](https://medium.com/@Praxen/duckdb-extensions-youll-actually-use-in-2026-bd0ea86a359f) - DuckDB Extensions You'll Actually Use in 2026
 ---
 
 ## Performance, indexing & optimization
