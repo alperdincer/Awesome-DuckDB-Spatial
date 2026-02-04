@@ -111,6 +111,7 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 * [duckdb/duckdb-wasm-extensions-ci (GitHub)](https://github.com/duckdb/duckdb-wasm-extensions-ci) - CI + docs for WASM extensions (includes spatial-related internals/limitations notes).
 * [A DuckDB-Wasm Web Mapping Experiment with Parquet (SparkGeo)](https://sparkgeo.com/blog/a-duckdb-wasm-web-mapping-experiment-with-parquet/) - Browser-based mapping experiment using DuckDB-Wasm over remote Parquet.
 * [GeoParquet viewer with DuckDB spatial (Observable)](https://observablehq.com/@ericmauviere/geoparquet-viewer-with-duckdb-spatial) - Interactive notebook demonstrating GeoParquet/GeoJSON viewing with DuckDB spatial.
+* [Honeycomb Maps](https://www.honeycombmaps.com) - An enterprise geospatial visualization platform that utilizes DuckDB-Wasm under-the-hood.
 
 ---
 
