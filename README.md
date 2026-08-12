@@ -113,7 +113,7 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 * [GeoParquet viewer with DuckDB spatial (Observable)](https://observablehq.com/@ericmauviere/geoparquet-viewer-with-duckdb-spatial) - Interactive notebook demonstrating GeoParquet/GeoJSON viewing with DuckDB spatial.
 * [Honeycomb Maps](https://www.honeycombmaps.com) - An enterprise geospatial visualization platform that utilizes DuckDB-Wasm under-the-hood.
 * [galileo.world](https://galileo.world) - A browser-based interactive platform to instantly visualize and explore geospatial files and MotherDuck datasets, built with DuckDB-Wasm and deck.gl.
-
+* [GeoSQL](https://geosql.dev) - Interactive spatial SQL exercises: 29 graded problems that execute and grade in the browser via DuckDB-Wasm.
 ---
 
 ## Servers & APIs
