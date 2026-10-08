@@ -102,6 +102,8 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 * [isaacbrodsky/h3-duckdb (GitHub)](https://github.com/isaacbrodsky/h3-duckdb) - H3 extension repo implementing the H3 API in DuckDB.
 * [davidgasquez/awesome-duckdb (GitHub)](https://github.com/davidgasquez/awesome-duckdb) - Broader Awesome list for DuckDB (often includes spatial-related ecosystem links).
 * [paleolimbot/duckdb-geography](https://github.com/paleolimbot/duckdb-geography) - Community “GEOGRAPHY” extension using S2 Geometry for spherical/geodesic calculations (experimental, separate from the core spatial extension).
+* [GeoSilo](https://query.farm/products/extensions/geosilo/) - DuckDB extension for compact geometry storage using coordinate quantization and delta encoding.
+* [Lindel](https://query.farm/products/extensions/lindel/) - DuckDB extension for Hilbert and Morton ordering of multidimensional values, useful for spatial sorting before writing Parquet.
 
 ---
 
