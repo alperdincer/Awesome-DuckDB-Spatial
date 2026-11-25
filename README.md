@@ -116,6 +116,7 @@ A curated list of resources related to **DuckDB’s geospatial capabilities** (t
 * [Honeycomb Maps](https://www.honeycombmaps.com) - An enterprise geospatial visualization platform that utilizes DuckDB-Wasm under-the-hood.
 * [galileo.world](https://galileo.world) - A browser-based interactive platform to instantly visualize and explore geospatial files and MotherDuck datasets, built with DuckDB-Wasm and deck.gl.
 * [GeoSQL](https://geosql.dev) - Interactive spatial SQL exercises: 29 graded problems that execute and grade in the browser via DuckDB-Wasm.
+* [conv.earth spatial SQL](https://conv.earth/sql) - Runs DuckDB-Wasm with the spatial extension in the browser to query a Shapefile, GeoJSON, KML or GeoPackage loaded as a table; part of a client-side GIS converter.
 ---
 
 ## Servers & APIs
